@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^9.6.6",
+    "ts-node": "^6.0.0",
+    "typescript": "^2.8.3"
+  },
+  "name": "tile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  }
+}
